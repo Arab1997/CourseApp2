@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Oнлайн-Курс</string>
+    <string name="_17_lessons">17 занятия</string>
+    <string name="name">Имя</string>
+    <string name="hello_rajendra">Привет Абдулло</string>
+    <string name="what_would_you_like_to_learn_today">Что бы вы хотели узнать сегодня?</string>
+    <string name="what_are_you_looking_for">Что ты ищешь?</string>
+    <string name="most_popular">Cамый популярный</string>
+    <string name="courses_for_you">Курсы для вас</string>
+    <string name="design_basics_for_begineer_like_a_pro">Основы дизайна для начинающих, как профессионал</string>
+</resources>
